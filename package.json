@@ -1,0 +1,18 @@
+{
+  "name": "29scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Get Triple Scores ◄ Get Your FREE Credit Score Get Triple Scores, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "Get Triple Scores",
+    "car loans for good credit score",
+    "credit score lowes card",
+    "which credit score is used for mortgages",
+    "when credit score get updated"
+  ],
+  "repository": "https://github.com/truelestor/29scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
